@@ -26,6 +26,14 @@ Awaards Website Works is a clone website developed using Next.js, GSAP animation
 - **App Router**: App Router is utilized for client-side routing within the application, allowing seamless navigation between different pages and components without full-page reloads.
 - **Locomotive Scroll**: Locomotive Scroll is integrated to provide smooth scrolling effects, creating a fluid and immersive browsing experience for users.
 
+## Technologies Used 🛠️
+Next.js
+GSAP
+Tailwind CSS
+Smooth Scroll Effects
+
+
+
 ## hosted on Netlify Link:https://worksbyaman.netlify.app/
 
 
